@@ -13,8 +13,8 @@ html {
 
 body {
   font-family: 'Press Start 2P', sans-serif;
-  color: #eee;
-  background-color: #222;
+  color: rgb(215, 200, 200);
+  background-color: rgb(49, 50, 11);
   /* background-color: #60b347; */
 }
 
